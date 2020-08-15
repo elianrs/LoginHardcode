@@ -26,10 +26,4 @@ public class Usuario {
             return false;
         }
     }
-
-    public String r(){
-        return "teste: " + prontuario + " " + senha + " " + realizaLogin();
-    }
-
-
 }
